@@ -1,0 +1,2 @@
+# score_match
+Gist: based on the performance table of the national teams at the world Cup, you need to calculate the conditional power of attack and defense of each team.The score of the match is calculated by our formula with a given probability. Formula contains dozens parameters, based on Poisson distribution, including our secret NN "weapon" :) Try to adapt it and launch on PHP ML, for example.
